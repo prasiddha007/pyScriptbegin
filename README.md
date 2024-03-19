@@ -1,5 +1,3 @@
-
-```markdown
 # 🦜 Polyglot - Piratical PyScript
 
 **Translate English into Pirate speak with this fun web app!**
@@ -52,4 +50,3 @@ Polyglot is a web application built with PyScript that allows users to translate
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
