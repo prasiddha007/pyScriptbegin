@@ -2,8 +2,6 @@
 
 **Translate English into Pirate speak with this fun web app!**
 
-![Polyglot](https://your-website.com/path/to/polyglot-screenshot.png)
-
 ## Description
 
 Polyglot is a web application built with PyScript that allows users to translate English text into Pirate speak. It uses the "arrr" package for translation.
